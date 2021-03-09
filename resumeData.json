@@ -1,0 +1,133 @@
+{
+  "main": {
+    "name": "Mathias Porzier",
+    "occupation": "Full-stack web developer",
+    "description": "Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "image": "profilepic.jpg",
+    "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "mathias.porzier@hotmail.com",
+    "phone": "+33695338536",
+    "address": {
+      "city": "Paris",
+      "state": "France"
+    },
+    "website": "",
+    "resumedownload": "mathias_porzier_resumee.pdf",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/mathias-porzier-b50654194",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/mporzier",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "42 School",
+        "degree": "Computer science student",
+        "graduated": "November 2018 - July 2020",
+        "description": "Computer science student @42 School Paris. I have learned how awesome programming can be, through intensive C learning, with projects including a complete shell recreation, a 3d wireframe viewer, recoding shell built-in functions like 'ls' or 'cd', or algorithms solving sudokus and Tetris puzzles."
+      },
+      {
+        "school": "Chevrollier High School",
+        "degree": "Scientific High School Diploma",
+        "graduated": "July 2018",
+        "description": "Scientific high school diploma, option Engineering Science."
+      }
+    ],
+    "work": [
+      {
+        "company": "Freelance",
+        "title": "Web full-stack programmer",
+        "years": "June 2020 - present",
+        "description": "Web full-stack freelance developer"
+      },
+      {
+        "company": "Tactill",
+        "title": "Full-stack web developer",
+        "years": "December 2019 - June 2020",
+        "description": "Work at Tactill."
+      }
+    ],
+    "skills": [
+      {
+        "name": "JavaScript",
+        "level": "60%"
+      },
+      {
+        "name": "Node.js",
+        "level": "55%"
+      },
+      {
+        "name": "React.js",
+        "level": "50%"
+      },
+      {
+        "name": "MySQL",
+        "level": "50%"
+      },
+      {
+        "name": "C",
+        "level": "50%"
+      },
+      {
+        "name": "Unix",
+        "level": "50%"
+      },
+      {
+        "name": "Git",
+        "level": "50%"
+      },
+      {
+        "name": "Bash scripting",
+        "level": "50%"
+      },
+      {
+        "name": "Python",
+        "level": "50%"
+      },
+      {
+        "name": "Google Cloud Platform",
+        "level": "50%"
+      },
+      {
+        "name": "Functional programming",
+        "level": "50%"
+      },
+      {
+        "name": "Google BigQuery",
+        "level": "50%"
+      },
+      {
+        "name": "HTML / CSS",
+        "level": "50%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "42sh",
+        "category": "Complete shell recreation",
+        "image": "42sh.gif",
+        "url": "https://github.com/pscott/42sh"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Mathias serious and flexible person. He can learn and adapt himself quickly to provided tools, is relevant, and keeps an eye on our goals. Keep going!",
+        "user": "Grégoire Lopez @Tactill"
+      }
+    ]
+  }
+}
