@@ -12,7 +12,8 @@
       "city": "Paris",
       "state": "France"
     },
-    "website": "",
+    "nationality": "french",
+    "website": "https://mporzier.github.io/portfolio",
     "resumedownload": "mathias_porzier_resume.pdf",
     "social": [
       {
