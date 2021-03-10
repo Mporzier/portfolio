@@ -62,7 +62,7 @@ header .banner-text {
   width: 100%;
 }
 header .banner-text h1 {
-  font: 70px/1.2em "opensans-bold", sans-serif;
+  font: 40px/1.2em "opensans-bold", sans-serif;
   color: #fff;
   letter-spacing: -2px;
   margin: 0 auto 18px auto;
@@ -881,19 +881,16 @@ call-to-action .button {
 /* ------------------------------------------------------------------ */
 
 #contact {
-  background: #161616;
+  background: #191919;
   padding-top: 70px;
   padding-bottom: 70px;
-  color: #fff;
+  color: #c2c2c2;
   text-align: center;
-}
-
-#contact p {
   font-size: large;
 }
 
-#contact h2 {
-  color: rgb(120, 120, 120);
+#contact h1 {
+  color: #c2c2c2;
 }
 
 /* ------------------------------------------------------------------ */
