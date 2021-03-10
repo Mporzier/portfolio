@@ -6,6 +6,7 @@ class About extends Component {
       var profilepic = "images/" + this.props.data.image;
       var bio = this.props.data.bio;
       var resumeDownload = this.props.data.resumedownload;
+      var softSkills = this.props.data.softSkills;
     }
 
     return (
@@ -20,7 +21,11 @@ class About extends Component {
           </div>
           <div className="nine columns main-col">
             <h2>About Me</h2>
-            <p>{bio}</p>
+            <p>
+              {bio} <br></br>
+              <br></br>
+              {softSkills}
+            </p>
             <div className="row">
               <div className="columns download">
                 <p>

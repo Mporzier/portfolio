@@ -4,8 +4,10 @@
     "occupation": "Full-stack web developer",
     "description": "I'm working as a freelancer at the moment, but I'm open to hear about new opportunities and projects !",
     "image": "profilepic.jpg",
-    "bio": "I'm a travel addict, a language learner, a great cook, but above all, I'm a programming passionate !",
-    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "bio": "I'm a travel addict, a language learner, a great cook, but above all, I'm a programming fan ! After an existencial reflexion about my future, I decided to follow my passion and entered 42 School in Paris. I have then been hired for 6 months at Tactill, Paris, as a full-stack programmer. ",
+    "softSkills": "My main soft-skills are my ability to solve effectively problems with few pieces of information and to learn very quickly how to use new languages or tools, therefore I am swift and relevant when there is the need to find solutions.",
+    "projectExamples": "A few examples of projects on which I had the chance to work :\n- Creation from scratch of a shell program Bash-like using C, following the POSIX requirements, including an AST execution, parsing and lexing, termcaps interface, shell redirections, job control, built-ins, regex …\n- Creation of a data-pipeline from an API, using an ETL tool called StitchData, towards BigQuery, using Python\n- Tasks and deployment automating on Google Cloud\n- Creation of Google Apps Scripts add-ons to retrieve filtered data from APIs towards a Google Spreadsheet\n- Deployment of Google Firebase Cloud Functions using Node.JS\n- Web scraping programs, using Node.JS and Puppeteer, deployed on Apify",
+
     "email": "mathias.porzier@hotmail.com",
     "phone": "+33695338536",
     "address": {
