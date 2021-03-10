@@ -4,10 +4,8 @@
     "occupation": "Full-stack web developer",
     "description": "I'm working as a freelancer at the moment, but I'm open to hear about new opportunities and projects !",
     "image": "profilepic.jpg",
-    "bio": "I'm a travel addict, a language learner, a great cook, but above all, I'm a programming fan ! After an existencial reflexion about my future, I decided to follow my passion and entered 42 School in Paris. I have then been hired for 6 months at Tactill, Paris, as a full-stack programmer. ",
+    "bio": "I'm a travel addict, a language learner, a great cook, but above all, I'm a programming fan ! After an existencial reflexion about my future, I decided to follow my passion and entered 42 School in Paris. I have then been hired for 6 months at Tactill, Paris, as a full-stack web developer.",
     "softSkills": "My main soft-skills are my ability to solve effectively problems with few pieces of information and to learn very quickly how to use new languages or tools, therefore I am swift and relevant when there is the need to find solutions.",
-    "projectExamples": "A few examples of projects on which I had the chance to work :\n- Creation from scratch of a shell program Bash-like using C, following the POSIX requirements, including an AST execution, parsing and lexing, termcaps interface, shell redirections, job control, built-ins, regex …\n- Creation of a data-pipeline from an API, using an ETL tool called StitchData, towards BigQuery, using Python\n- Tasks and deployment automating on Google Cloud\n- Creation of Google Apps Scripts add-ons to retrieve filtered data from APIs towards a Google Spreadsheet\n- Deployment of Google Firebase Cloud Functions using Node.JS\n- Web scraping programs, using Node.JS and Puppeteer, deployed on Apify",
-
     "email": "mathias.porzier@hotmail.com",
     "phone": "+33695338536",
     "address": {
@@ -37,19 +35,26 @@
         "school": "42 School",
         "degree": "Computer science student",
         "graduated": "November 2018 - July 2020",
-        "description": "Computer science student @42 School Paris. I have learned how awesome programming can be, through intensive C learning, with projects including a complete shell recreation, a 3d wireframe viewer, recoding shell built-in functions like 'ls' or 'cd', or algorithms solving sudokus and Tetris puzzles."
+        "description": "Computer science student @42 School Paris. I have learned how awesome programming can be, through intensive C learning, with projects such as :",
+        "projectExamples": [
+          "- Creation from scratch of a shell program Bash-like using C, following the POSIX requirements, including an AST execution, parsing and lexing, termcaps interface, shell redirections, job control, built-ins, regex …",
+          "- A 3d wireframe viewer, to visualize official maps of the world with its altitude",
+          "- Recoding shell built-in functions like `ls` or `cd`",
+          "- Different algorithms solving sudokus and Tetris puzzles for example"
+        ]
       },
       {
         "school": "Chevrollier High School",
         "degree": "Scientific High School Diploma",
         "graduated": "July 2018",
-        "description": "Scientific high school diploma, option Engineering Science."
+        "description": "Scientific high school diploma, option Engineering Science.",
+        "projectExamples": []
       }
     ],
     "work": [
       {
         "company": "Freelancer",
-        "title": "Web full-stack programmer",
+        "title": "Full-stack web developer",
         "years": "June 2020 - present",
         "description": "I'm working as a freelancer on projects such as :",
         "projectExamples": [
