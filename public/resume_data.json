@@ -31,7 +31,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "TODO skill message",
     "education": [
       {
         "school": "42 School",
@@ -48,16 +48,25 @@
     ],
     "work": [
       {
-        "company": "Freelance",
+        "company": "Freelancer",
         "title": "Web full-stack programmer",
         "years": "June 2020 - present",
-        "description": "Web full-stack freelance developer"
+        "description": "I'm working as a freelancer on projects such as :",
+        "projectExamples": [
+          "- Construction of an analytic data stack: automatic retrieving of the data from different tools (like Intercom or Zapier) through an ETL tool (StitchData), sending it to Google BigQuery, formating/parsing of this raw data by DBT, and visualizing it on Google DataStudio."
+        ]
       },
       {
         "company": "Tactill",
         "title": "Full-stack web developer",
         "years": "December 2019 - June 2020",
-        "description": "Work at Tactill."
+        "description": "I have been working at Tactill for 6 months as a full-stack web developer. It was a thrilling experience of its versatility since I was building tools in response to the needs of the team and our customers. The most fulfilling aspect for me was the discovery of building clearer code, using functional programming, involving more code reviews, comments, clarity, and mathematical logic, for maximal maintainability. Some projects examples :",
+        "projectExamples": [
+          "- AWS and Google Cloud Platform deployment automatization, including bash scripting and serverless functions",
+          "- API requesters on Google Apps Scripts to retrieve data on a Spreadsheet, through Google Sheets extensions",
+          "- MySQL data stack on BigQuery",
+          "- Setting up and optimizing a static website using Jekyll"
+        ]
       }
     ],
     "skills": [
