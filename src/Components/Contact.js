@@ -13,18 +13,16 @@ class Contact extends Component {
     return (
       <section id="contact">
         <div className="row">
-          <div className="columns contact-details">
-            <h2>Contact Details</h2>
-            <p className="address">
-              <span>{name}</span>
-              <br />
-              {city}, {state}
-              <br />
-              <a href={"tel:" + { phone }}>{phone}</a>
-              <br />
-              <a href={"email:" + { email }}>{email}</a>
-            </p>
-          </div>
+          <h1>Contact Details</h1>
+          <p className="address">
+            <span>{name}</span>
+            <br />
+            {city}, {state}
+            <br />
+            <a href={"tel:" + { phone }}>{phone}</a>
+            <br />
+            <a href={"email:" + { email }}>{email}</a>
+          </p>
         </div>
       </section>
     );
