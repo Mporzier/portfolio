@@ -29,7 +29,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "TODO skill message",
+    "skillmessage": "I'm always delighted to get new tools in hand, regarding the fact there are so many of them that offer huge possiblities and potential, but these are the main skills I'm confident with.",
     "education": [
       {
         "school": "42 School",
@@ -77,55 +77,47 @@
     "skills": [
       {
         "name": "JavaScript",
+        "level": "80%"
+      },
+      {
+        "name": "C",
+        "level": "80%"
+      },
+      {
+        "name": "Unix",
+        "level": "70%"
+      },
+      {
+        "name": "Bash scripting",
+        "level": "70%"
+      },
+      {
+        "name": "Functional programming",
+        "level": "70%"
+      },
+      {
+        "name": "MySQL",
         "level": "60%"
       },
       {
         "name": "Node.js",
+        "level": "60%"
+      },
+      {
+        "name": "Google BigQuery",
         "level": "55%"
-      },
-      {
-        "name": "React.js",
-        "level": "50%"
-      },
-      {
-        "name": "MySQL",
-        "level": "50%"
-      },
-      {
-        "name": "C",
-        "level": "50%"
-      },
-      {
-        "name": "Unix",
-        "level": "50%"
-      },
-      {
-        "name": "Git",
-        "level": "50%"
-      },
-      {
-        "name": "Bash scripting",
-        "level": "50%"
-      },
-      {
-        "name": "Python",
-        "level": "50%"
       },
       {
         "name": "Google Cloud Platform",
         "level": "50%"
       },
       {
-        "name": "Functional programming",
-        "level": "50%"
+        "name": "React.js",
+        "level": "40%"
       },
       {
-        "name": "Google BigQuery",
-        "level": "50%"
-      },
-      {
-        "name": "HTML / CSS",
-        "level": "50%"
+        "name": "Python",
+        "level": "40%"
       }
     ]
   },
