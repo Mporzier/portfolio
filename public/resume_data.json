@@ -1,0 +1,136 @@
+{
+  "main": {
+    "name": "Mathias Porzier",
+    "occupation": "Full-stack web developer",
+    "description": "I'm working as a freelancer at the moment, but I'm open to hear about new opportunities and projects !",
+    "image": "profilepic.jpg",
+    "bio": "I'm a travel addict, a language learner, a great cook, but above all, I'm a programming fan ! After an existencial reflexion about my future, I decided to follow my passion and entered 42 School in Paris. I have then been hired for 6 months at Tactill, Paris, as a full-stack programmer. ",
+    "softSkills": "My main soft-skills are my ability to solve effectively problems with few pieces of information and to learn very quickly how to use new languages or tools, therefore I am swift and relevant when there is the need to find solutions.",
+    "projectExamples": "A few examples of projects on which I had the chance to work :\n- Creation from scratch of a shell program Bash-like using C, following the POSIX requirements, including an AST execution, parsing and lexing, termcaps interface, shell redirections, job control, built-ins, regex …\n- Creation of a data-pipeline from an API, using an ETL tool called StitchData, towards BigQuery, using Python\n- Tasks and deployment automating on Google Cloud\n- Creation of Google Apps Scripts add-ons to retrieve filtered data from APIs towards a Google Spreadsheet\n- Deployment of Google Firebase Cloud Functions using Node.JS\n- Web scraping programs, using Node.JS and Puppeteer, deployed on Apify",
+
+    "email": "mathias.porzier@hotmail.com",
+    "phone": "+33695338536",
+    "address": {
+      "city": "Paris",
+      "state": "France"
+    },
+    "website": "https://mporzier.github.io/portfolio/",
+    "nationality": "french",
+    "resumedownload": "mathias_porzier_resume.pdf",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/mathias-porzier-b50654194",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/mporzier",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "42 School",
+        "degree": "Computer science student",
+        "graduated": "November 2018 - July 2020",
+        "description": "Computer science student @42 School Paris. I have learned how awesome programming can be, through intensive C learning, with projects including a complete shell recreation, a 3d wireframe viewer, recoding shell built-in functions like 'ls' or 'cd', or algorithms solving sudokus and Tetris puzzles."
+      },
+      {
+        "school": "Chevrollier High School",
+        "degree": "Scientific High School Diploma",
+        "graduated": "July 2018",
+        "description": "Scientific high school diploma, option Engineering Science."
+      }
+    ],
+    "work": [
+      {
+        "company": "Freelance",
+        "title": "Web full-stack programmer",
+        "years": "June 2020 - present",
+        "description": "Web full-stack freelance developer"
+      },
+      {
+        "company": "Tactill",
+        "title": "Full-stack web developer",
+        "years": "December 2019 - June 2020",
+        "description": "Work at Tactill."
+      }
+    ],
+    "skills": [
+      {
+        "name": "JavaScript",
+        "level": "60%"
+      },
+      {
+        "name": "Node.js",
+        "level": "55%"
+      },
+      {
+        "name": "React.js",
+        "level": "50%"
+      },
+      {
+        "name": "MySQL",
+        "level": "50%"
+      },
+      {
+        "name": "C",
+        "level": "50%"
+      },
+      {
+        "name": "Unix",
+        "level": "50%"
+      },
+      {
+        "name": "Git",
+        "level": "50%"
+      },
+      {
+        "name": "Bash scripting",
+        "level": "50%"
+      },
+      {
+        "name": "Python",
+        "level": "50%"
+      },
+      {
+        "name": "Google Cloud Platform",
+        "level": "50%"
+      },
+      {
+        "name": "Functional programming",
+        "level": "50%"
+      },
+      {
+        "name": "Google BigQuery",
+        "level": "50%"
+      },
+      {
+        "name": "HTML / CSS",
+        "level": "50%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "42sh",
+        "category": "Complete shell recreation",
+        "image": "42sh.gif",
+        "url": "https://github.com/pscott/42sh"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Mathias serious and flexible person. He can learn and adapt himself quickly to the provided tools, is relevant, and keeps an eye on our goals. Keep going!",
+        "user": "Grégoire Lopez @Tactill"
+      }
+    ]
+  }
+}
