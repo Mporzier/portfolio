@@ -128,6 +128,12 @@
         "category": "Complete shell recreation",
         "image": "42sh.gif",
         "url": "https://github.com/pscott/42sh"
+      },
+      {
+        "title": "Tactill website",
+        "category": "Refactor Tactill's website",
+        "image": "tactill.jpg",
+        "url": "https://tactill.com"
       }
     ]
   },
