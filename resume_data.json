@@ -1,10 +1,10 @@
 {
   "main": {
     "name": "Mathias Porzier",
-    "occupation": "Full-stack web developer",
-    "description": "I'm working as a freelancer at the moment, but I'm open to hear about new opportunities and projects !",
+    "occupation": "full-stack web developer",
+    "description": "I'm working as a freelancer at the moment, but I'm open to hear about new opportunities and projects!",
     "image": "profilepic.jpg",
-    "bio": "I'm a travel addict, a language learner, a great cook, but above all, I'm a programming fan ! After an existencial reflexion about my future, I decided to follow my passion and entered 42 School in Paris. I have then been hired for 6 months at Tactill, Paris, as a full-stack web developer.",
+    "bio": "I'm a travel addict, a language learner, a great cook, but above all, I'm a programming fan! After an existencial reflexion about my future, I decided to follow my passion and entered 42 School in Paris. I have then been hired for 6 months at Tactill, Paris, as a full-stack web developer.",
     "softSkills": "My main soft-skills are my ability to solve effectively problems with few pieces of information and to learn very quickly how to use new languages or tools, therefore I am swift and relevant when there is the need to find solutions.",
     "email": "mathias.porzier@hotmail.com",
     "phone": "+33695338536",
@@ -13,7 +13,7 @@
       "state": "France"
     },
     "website": "https://mporzier.github.io/portfolio/",
-    "nationality": "french",
+    "nationality": "French",
     "resumedownload": "mathias_porzier_resume.pdf",
     "social": [
       {
@@ -134,7 +134,7 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "Mathias serious and flexible person. He can learn and adapt himself quickly to the provided tools, is relevant, and keeps an eye on our goals. Keep going!",
+        "text": "Mathias is a serious and flexible person. He can learn and adapt himself quickly to the provided tools, is relevant, and keeps an eye on our goals. Keep going!",
         "user": "Grégoire Lopez @Tactill"
       }
     ]
