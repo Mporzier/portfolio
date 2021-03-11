@@ -34,6 +34,7 @@
       {
         "school": "42 School",
         "degree": "Computer science student",
+        "location": "Paris, France",
         "graduated": "November 2018 - July 2020",
         "description": "Computer science student @42 School Paris. I have learned how awesome programming can be, through intensive C learning, with projects such as :",
         "projectExamples": [
@@ -46,6 +47,7 @@
       {
         "school": "Chevrollier High School",
         "degree": "Scientific High School Diploma",
+        "location": "Angers, France",
         "graduated": "July 2018",
         "description": "Scientific high school diploma, option Engineering Science.",
         "projectExamples": []
@@ -55,6 +57,7 @@
       {
         "company": "Freelancer",
         "title": "Full-stack web developer",
+        "location": "Paris, France",
         "years": "June 2020 - present",
         "description": "I'm working as a freelancer on projects such as :",
         "projectExamples": [
@@ -64,6 +67,7 @@
       {
         "company": "Tactill",
         "title": "Full-stack web developer",
+        "location": "Paris, France",
         "years": "December 2019 - June 2020",
         "description": "I had been working at Tactill for 6 months as a full-stack web developer. It was a thrilling experience of its versatility since I was building tools in response to the needs of the team and our customers. The most fulfilling aspect for me was the discovery of building clearer code, using functional programming, involving more code reviews, comments, clarity, and mathematical logic, for maximal maintainability. Some projects examples :",
         "projectExamples": [
@@ -72,6 +76,22 @@
           "- MySQL data stack on BigQuery",
           "- Setting up and optimizing a static website using Jekyll"
         ]
+      },
+      {
+        "company": "Workaway",
+        "title": "Volunteer",
+        "location": "Yamaguchi and Tokushima, Japan",
+        "years": "July 2019 - August 2019",
+        "description": "I had been involved in various types of tasks in two farms in Japan, including planting rice, cutting bamboos, taking care of tea fields and animals, helping the hosts to set up and harvest the growth of vegetables within a permacultural area ... These experiences allowed me to understand how agriculture works in another country, to support local businesses and alternative projects, as well as being a part of a team of international volunteers, to reinforce my manual and social skills.",
+        "projectExamples": []
+      },
+      {
+        "company": "Workaway",
+        "title": "Volunteer",
+        "location": "Leicester, United Kingdom",
+        "years": "May 2018 - June 2018",
+        "description": "I had spent a month and a half as a volunteer in an English family in Leicester, United Kingdom. I took part in building, gardening, and mechanical projects. At that time, it strongly helped me to be able to get influence from English natives to sharpen my spoken English as well as my accent.",
+        "projectExamples": []
       }
     ],
     "skills": [

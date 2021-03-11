@@ -18,6 +18,7 @@ class Resume extends Component {
         return (
           <div key={education.school}>
             <h3>{education.school}</h3>
+            <p>{education.location}</p>
             <p className="info">
               {education.degree} <span>&bull;</span>
               <em className="date">{education.graduated}</em>
@@ -31,6 +32,7 @@ class Resume extends Component {
         return (
           <div key={work.company}>
             <h3>{work.company}</h3>
+            <p>{work.location}</p>
             <p className="info">
               {work.title}
               <span>&bull;</span> <em className="date">{work.years}</em>
