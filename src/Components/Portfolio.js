@@ -11,7 +11,7 @@ class Portfolio extends Component {
               <a
                 href={projects.url}
                 title={projects.title}
-                rel="noreffer"
+                rel="noreferrer"
                 target="_blank"
               >
                 <img alt={projects.title} src={projectImage} />
