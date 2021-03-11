@@ -65,7 +65,7 @@
         "company": "Tactill",
         "title": "Full-stack web developer",
         "years": "December 2019 - June 2020",
-        "description": "I have been working at Tactill for 6 months as a full-stack web developer. It was a thrilling experience of its versatility since I was building tools in response to the needs of the team and our customers. The most fulfilling aspect for me was the discovery of building clearer code, using functional programming, involving more code reviews, comments, clarity, and mathematical logic, for maximal maintainability. Some projects examples :",
+        "description": "I had been working at Tactill for 6 months as a full-stack web developer. It was a thrilling experience of its versatility since I was building tools in response to the needs of the team and our customers. The most fulfilling aspect for me was the discovery of building clearer code, using functional programming, involving more code reviews, comments, clarity, and mathematical logic, for maximal maintainability. Some projects examples :",
         "projectExamples": [
           "- AWS and Google Cloud Platform deployment automatization, including bash scripting and serverless functions",
           "- API requesters on Google Apps Scripts to retrieve data on a Spreadsheet, through Google Sheets extensions",
